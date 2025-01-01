@@ -1,8 +1,8 @@
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasteur-dev/pasteur-web/master/assets/img/logo_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasteur-dev/pasteur-web/master/assets/img/logo_light.svg">
     <img alt="Pasteur Logo" src="https://raw.githubusercontent.com/pasteur-dev/pasteur-web/master/assets/img/logo_light.svg" height="150px" align="left">
-</picture>
+</picture> -->
 <h1>
     Pasteur: Scaling Privacy-aware Data Synthesis<br>
     <i>Supplemental Material</i>
